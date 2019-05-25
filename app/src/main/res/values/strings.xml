@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConverter</string>
+    <string name="celsText">Celsius</string>
+    <string name="fahrText">Fahrenheit</string>
+    <string name="temp_convert">Temperature Converter</string>
+    <string name="clear">Reset</string>
+</resources>
